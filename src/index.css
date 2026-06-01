@@ -1,0 +1,6 @@
+@import "@visuallyjs/browser-ui/css/visuallyjs.css";
+@import './bar-column-chart.css';
+
+body * {
+    font-family: "Segoe UI", sans-serif;
+}
